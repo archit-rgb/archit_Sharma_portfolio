@@ -1,6 +1,6 @@
 # Archit Sharma | The environment I run
 
-Interactive portfolio for Archit Sharma, Assistant System Administration Manager.
+Interactive portfolio for Archit Sharma, IT Infrastructure & Operations Lead.
 Live site: https://archit-rgb.github.io/archit_Sharma_portfolio
 
 ## What's on the site
